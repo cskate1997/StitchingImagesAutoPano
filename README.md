@@ -1,7 +1,7 @@
 # StitchingImagesAutoPano
 Stitching Images to create one seamless panorama image using Homography.
 
-# My AutoPano
+## My AutoPano
 The purpose of this project is to stitch two or more images in order to create one seamless panorama image by finding the Homography between the two images. 
 The project is divided into two phases,
 1. Phase 1: Classical approach of local feature matching
